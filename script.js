@@ -38,10 +38,10 @@ let filteredArr = arr.filter
 //console.log(arr);
 
 let newArr = [];
-arr.forEach(element => {
-    if (element > 3) {
+arr.forEach(i => {
+    if (i > 3) {
 
-        newArr.push(element);
+        newArr.push(i);
     }
 });
 
