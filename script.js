@@ -10,7 +10,7 @@ function check(param1, param2) {
 
 
 let a = check(5, 5) + 5;
-//console.log(a);
+console.log(a);
 
 const arrowFunc = (params) => {
 
