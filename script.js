@@ -1,6 +1,6 @@
 function check(param1, param2) {
     if (param1 === param2) {
-        //console.log(`${param1}=${param2}`); 
+        console.log(`${param1}=${param2}`); 
         let newdeger = param1 + param2;
         return newdeger;
     } else {
